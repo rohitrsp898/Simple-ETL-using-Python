@@ -1,0 +1,14 @@
+2021-12-25 21:09:19,146 Extracted data from csv files
+2021-12-25 21:09:19,197 Extracted data from json files
+2021-12-25 21:09:19,232 Extracted data from MySQL table
+2021-12-25 21:09:19,238 Transformed data: new column added as New Salary(INR)
+2021-12-25 21:09:19,242 Transformed data: new column added as Salary(USD)
+2021-12-25 21:09:19,242 Transformed data !!
+2021-12-25 21:09:19,255 Loaded data into csv file
+2021-12-25 21:10:08,815 --Extracted data from csv files
+2021-12-25 21:10:08,857 --Extracted data from json files
+2021-12-25 21:10:08,887 --Extracted data from MySQL table
+2021-12-25 21:10:08,889 --Transformed data: new column added as New Salary(INR)
+2021-12-25 21:10:08,891 --Transformed data: new column added as Salary(USD)
+2021-12-25 21:10:08,891 --Transformed data !!
+2021-12-25 21:10:08,902 --Loaded data into csv file
